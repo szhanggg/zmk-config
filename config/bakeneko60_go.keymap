@@ -70,7 +70,7 @@
 &trans      &trans        &trans        &trans        &trans        &trans        &trans    &trans    &trans  &trans     &trans  &trans  &trans          &trans
 &trans      &trans        &trans        &trans        &trans        &trans        &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans                  &sys_reset
 &trans                    &trans        &trans        &trans        &trans        &trans    &trans    &trans  &trans     &trans  &trans  &trans          &trans
-&trans      &trans                      &trans                                    &trans                                 &trans  &trans  &trans          &trans
+&trans      &trans                      &trans                                    &trans                                 &trans  &trans  &trans          &tog 2
             >;
         };
     };
